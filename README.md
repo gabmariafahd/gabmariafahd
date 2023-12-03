@@ -9,7 +9,7 @@
 -->
 
   
-Meu objetivo na programação é trabalhar pela construção do Metaverso, sou autodidata em design e dados, estou cursando Engenharia de Bioprocessos na UFPA, meu foco no curso é bio-informatica, acredito que todas essas áreas estão conectadas em futuro bem próximo. Outras áreas de interesse: neuromarketing, machine learning, redes neurais, automação, tracker, dados multidimensionais e visão computacional.
+Meu objetivo na programação é trabalhar no desenvolvimento do Metaverso, sou autodidata em design e dados, estou cursando Engenharia de Bioprocessos na UFPA, meu foco no curso é bio-informatica, acredito que todas essas áreas estão conectadas em futuro bem próximo. Outras áreas de interesse: neuromarketing, machine learning, redes neurais, automação, tracker, dados multidimensionais e visão computacional.
 
 ## ✨ Linguagens
 
