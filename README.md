@@ -13,17 +13,17 @@
 
 
 
-- 🔭 Trabalhando com Realidade Aumentada
-- 🌱 Estudando OpenCV e Bio-Informática
-- 👯 Procurando colaborações no desenvolvimento do Metaverso e Web3
+- 🔭 Trabalhando com Realidade Aumentada e Animação 2D/3D
+- 👯 Procuro colaborações para desenvolver projetos voltados para o Metaverso e Web3
 - 💬 Me pergunte sobre Python, Automação e Código Criativo
+- 🌱 Estudando OpenCV e Bio-Informática
 - 📫 Contato: @gabmariafahd
 -->
 
 
 
   
-Meu objetivo na programação é trabalhar no desenvolvimento do Metaverso, sou autodidata em design e dados, estou cursando Engenharia de Bioprocessos na UFPA, meu foco no curso é bio-informatica, acredito que todas essas áreas estão conectadas em um futuro bem próximo. Outras áreas de interesse: neuromarketing, machine learning, redes neurais, automação, tracker, dados multidimensionais, visão computacional e robôtica.
+Meu objetivo atual na programação é trabalhar no desenvolvimento do Metaverso, sou autodidata em design e dados, estou cursando Engenharia de Bioprocessos na UFPA, ao longo prazo pretendo me especializar em bio-informatica, no atual presente estou diariamente me qualificando para trabalhar com as linguagens e softwares mais usados na criação de jogos, experiências AR, MR e XR, e no desenvolvimento de avatares digitais, filtros, apps e outras tecnologias com foco em Web3, acredito que todas essas áreas irão se conectar em um futuro bem próximo. No meu tempo livre gosto de me dedicar à outras áreas de interesse como neuromarketing, machine learning, redes neurais, automação, tracker, dados multidimensionais, visão computacional e robôtica.
 
 ## ✨ Linguagens e Ferramentas:
 
